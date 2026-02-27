@@ -32,7 +32,7 @@ CSV should contain:
 
 ## References
 
-**When using this dataset, please cite the following:**
+**When using this code and/or dataset, please cite the following:**
 
 1 - Talha Iqbal, Andrew J. Simpkin, Davood Roshan, Nicola Glynn, John Killilea, Jane Walsh, Gerard Molloy, Sandra Ganly, Hannah Ryman, Eileen Coen, Adnan Elahi, William Wijns, and Atif Shahzad. 2022. "Stress Monitoring Using Wearable Sensors: A Pilot Study and Stress-Predict Dataset", Sensors 22, no. 21: 8135. https://doi.org/10.3390/s22218135
 
